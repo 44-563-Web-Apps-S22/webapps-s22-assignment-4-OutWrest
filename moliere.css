@@ -24,6 +24,12 @@
 
 }
 
+.name:hover {
+    color: darkcyan;
+    background-color: black;
+    box-shadow: 0 0 10px black;
+}
+
 .oct {
     color: darkseagreen;
     font-family: sans-serif;
