@@ -33,3 +33,19 @@
     color: darkslategrey;
     font-style: oblique;
 }
+
+table {
+    width: 80%;
+    justify-content: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    border-style: striped;
+}
+
+tr:nth-child(even) {
+    background-color: beige;
+}
