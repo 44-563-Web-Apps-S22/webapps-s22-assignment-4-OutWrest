@@ -1,0 +1,35 @@
+.speech {
+    font-size: medium; ;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.direction {
+    font-size: small;
+    color: black;
+    background-color: beige;
+    font-family: "Courier New", Courier, sans-serif;
+    font-style: italic;
+}
+
+.direction:hover {
+    color: beige;
+    background-color: black;
+}
+
+.name {
+    font-size: large;
+    color: black;
+    font-family: 'Courier New', Courier, sans-serif
+
+}
+
+.oct {
+    color: lightblue;
+    font-family: sans-serif;
+}
+
+.sil {
+    color: lightgreen;
+    font-style: oblique;
+}
